@@ -24,7 +24,7 @@ A website has **3** parts: `Javascript`, `HTML`, and `CSS`. They work together t
 
 # Metaphors
 
-[https://media.licdn.com/dms/image/D4D12AQF7lMBGIwHUCw/article-inline_image-shrink_1000_1488/0/1680955326122?e=1700092800&v=beta&t=UGy2hiRN39Skc4XwsImRkO8zCm-WFYuwafR6XUTER9I](https://media.licdn.com/dms/image/D4D12AQF7lMBGIwHUCw/article-inline_image-shrink_1000_1488/0/1680955326122?e=1700092800&v=beta&t=UGy2hiRN39Skc4XwsImRkO8zCm-WFYuwafR6XUTER9I)
+![https://media.licdn.com/dms/image/D4D12AQF7lMBGIwHUCw/article-inline_image-shrink_1000_1488/0/1680955326122?e=1700092800&v=beta&t=UGy2hiRN39Skc4XwsImRkO8zCm-WFYuwafR6XUTER9I](https://media.licdn.com/dms/image/D4D12AQF7lMBGIwHUCw/article-inline_image-shrink_1000_1488/0/1680955326122?e=1700092800&v=beta&t=UGy2hiRN39Skc4XwsImRkO8zCm-WFYuwafR6XUTER9I)
 
 ![Screenshot from 2023-09-15 12-10-24.png](Intro%20to%20WebDev%20b3f924820ab04799a6ddeb878af758ee/Screenshot_from_2023-09-15_12-10-24.png)
 
